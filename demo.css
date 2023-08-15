@@ -1,0 +1,42 @@
+h1 {
+    color: blue;
+
+}
+
+section {
+    color: black;
+}
+
+form {
+    color: greenyellow;
+}
+
+button,
+input {
+    color: inherit;
+    background-color: rgb(225, 139, 233);
+    border-style: none;
+    border: 45px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-color: khaki;
+    padding: 5px;
+    margin-bottom: 30px;
+    margin-inline: 20px;
+}
+
+h1 {
+    background-color: khaki;
+    width: 110px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+div {
+    width: 200%;
+    height: 200%;
+    background-color: khaki;
+    border: 2px solid black;
+    display: inline-block;
+
+}
